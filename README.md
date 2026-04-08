@@ -1,8 +1,8 @@
 # Sistem Absensi RFID/NFC
 
-👩‍💻 Nama: Maulidya Aulia
-          M.fajar Ramadhan
-          M.Kahfi Kurniawan
+👩‍💻 Nama Kelompok : Maulidya Aulia
+                   M.fajar Ramadhan
+                   M.Kahfi Kurniawan
 
 ## 🔗 Link Figma
 https://www.figma.com/design/yZACPZBKTmLml2GDeVRSTS/PEMKOM2?node-id=62-83&t=TdD70MZEYvDsrWpP-1
