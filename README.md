@@ -1,7 +1,9 @@
 # Sistem Absensi RFID/NFC
 
 👩‍💻 Nama Kelompok : Maulidya Aulia
+
                    M.fajar Ramadhan
+                   
                    M.Kahfi Kurniawan
 
 ## 🔗 Link Figma
